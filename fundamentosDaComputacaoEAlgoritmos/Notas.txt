@@ -1,0 +1,20 @@
+Curso: Fundamentos da Computação e Algoritmos - fundamentosDaComputacaoEAlgoritmos
+Prof: Mário Souto
+
+Livros: 
+	- The mythical man-month
+	- Orientação a Objetos e Solid para Ninjas
+
+Palestra: 
+Além dos milissegundos - João Cunha (Psicologia)
+Perceived Performance - Fernanda Bernardo (Código)
+
+
+12Factors 
+HTTP Archive: Rastreia a web como é construída
+Progressive Rendering
+WPO Stats: Web Performance Statistics
+26 Técnicas de Otimização de Sites
+
+Ferramentas
+GTMetrix
