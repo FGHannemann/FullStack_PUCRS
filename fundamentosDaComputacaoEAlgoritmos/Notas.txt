@@ -18,3 +18,13 @@ WPO Stats: Web Performance Statistics
 
 Ferramentas
 GTMetrix
+
+---------------------------
+
+Aula02
+
+Banco de Dados Cronológico: Dataomic
+
+Abstração 
+Estrutura de Inversão de controle
+Coluna / Valor
