@@ -39,9 +39,8 @@
 
         // OUTPUT
     var valorAtualDoHTML = document.body.innerHTML;
-    document.body.innerHTML = valorAtualDoHTML + aba.titulo;
+    document.body.innerHTML = valorAtualDoHTML + `<li><a href="${aba.url}">${aba.titulo}</a></li><br>`;
     }
-
 
     /*
     O que tem em uma aba no navegador?

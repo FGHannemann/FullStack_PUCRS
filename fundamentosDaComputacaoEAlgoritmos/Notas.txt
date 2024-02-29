@@ -28,3 +28,18 @@ Banco de Dados Cronológico: Dataomic
 Abstração 
 Estrutura de Inversão de controle
 Coluna / Valor
+
+Parte 3
+Hackre Rank
+Livro Refactoring de Martin Fowler
+
+Júnior: 
+Pleno: Faz muita coisa para testar
+Senior: Tem total noção do faz, porque faz, e qual o iompacto do que está sendo feito.
+
+
+Parte 4
+
+Google: Latten flip loupe javascript
+
+MDM Web Docs
