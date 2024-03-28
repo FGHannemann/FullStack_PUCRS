@@ -2,3 +2,15 @@ Aula03 - Edson Moreno
 
 Linguagem fundamental do curso será JavaScript
 Node.JS
+
+Como saber se um algoritmo é eficiente?
+1) tamanho
+2) tempo gasto na execução
+
+Complexidade de um algoritmo
+
+Avaliação de desempenho
+  *  Regra de contagem
+
+Custo computacional
+  https://bigocheatsheet.com
