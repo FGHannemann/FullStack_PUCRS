@@ -1,0 +1,46 @@
+Prof. Alessandro Dias
+
+Programação Orientada a objetos
+
+Paradigma de programação com foco em objetos em vez de funções
+
+
+
+Classes
+	Atributos/Propriedade (variáveis): Dados de um objeto
+	Métodos: Função
+	Propriedade
+	Visibiliadade
+	Instância
+	Classe
+
+Conceito de:
+	Herança
+	Polimorfismo
+	Interfaces
+	Genéricos
+	Arrow function
+
+Filtragem
+
+Mapeamento
+
+Redução / Reduce
+
+Construção de tipo
+
+Programação Estruturada
+	Sequência 	Decisão		Iteração
+	
+Programação Procedural
+	Estruturada + Procedimentos + Funções
+	
+	
+	
+Livro CÓDIGO LIMPO
+	* Boa prática é uma função/procedimento deve ter em torno de 10 no máximo 15 linhas.
+	
+
+#####
+
+Parte 2
