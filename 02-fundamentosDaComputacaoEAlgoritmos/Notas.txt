@@ -1,0 +1,45 @@
+Curso: Fundamentos da Computação e Algoritmos - fundamentosDaComputacaoEAlgoritmos
+Prof: Mário Souto
+
+Livros: 
+	- The mythical man-month
+	- Orientação a Objetos e Solid para Ninjas
+
+Palestra: 
+Além dos milissegundos - João Cunha (Psicologia)
+Perceived Performance - Fernanda Bernardo (Código)
+
+
+12Factors 
+HTTP Archive: Rastreia a web como é construída
+Progressive Rendering
+WPO Stats: Web Performance Statistics
+26 Técnicas de Otimização de Sites
+
+Ferramentas
+GTMetrix
+
+---------------------------
+
+Aula02
+
+Banco de Dados Cronológico: Dataomic
+
+Abstração 
+Estrutura de Inversão de controle
+Coluna / Valor
+
+Parte 3
+Hackre Rank
+Livro Refactoring de Martin Fowler
+
+Júnior: 
+Pleno: Faz muita coisa para testar
+Senior: Tem total noção do faz, porque faz, e qual o iompacto do que está sendo feito.
+
+
+Parte 4
+
+Google: Latten flip loupe javascript
+
+MDM Web Docs
