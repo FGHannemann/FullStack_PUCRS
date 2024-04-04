@@ -44,3 +44,21 @@ Livro CÓDIGO LIMPO
 #####
 
 Parte 2
+Utilizando o console do navegador, crie a função e use para retornar os valores 
+
+function criarPessoa(nome, anoNascimento, profissao) {
+    return{
+        nome,
+        anoNascimento,
+        profissao,
+        calculaIdade: function () {
+            return new Date().getFullYear() - this.anoNascimento;
+        }
+    };
+};
+
+const pessoa1 = criarPessoa("Fernando", 1978, "DBA");
+
+console.log(pessoa1);
+
+console.log(pessoa1.calculaIdade());
