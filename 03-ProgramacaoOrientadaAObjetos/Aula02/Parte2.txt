@@ -1,0 +1,13 @@
+// Função construtora
+function Pessoa() {
+	this.nome = ['Chico','da Silva'];
+	this.anoNascimento = 199;
+	this.profissao = "Estudante";
+	this.calculaIdade = function(){
+		retunr new Date().getFullYear() - this.anoNascimento;
+	}
+};
+
+const pessoa1 = new Pessoa();
+
+console.log(pessoa1);
