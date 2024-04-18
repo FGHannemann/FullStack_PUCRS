@@ -11,6 +11,7 @@ numDivisores = (item) => {
     return ndiv;
 }
 
-array.filter((nro) => numDivisores(nro)==2)
-array.map((item) => {return {x:item, par:(item%2)==0}})
-array.forEach((obj) => console.log(obj.x + " é par? "+ obj.par));
+array
+    .filter((nro) => numDivisores(nro)==2)
+    .map((item) => {return {x:item, par:(item%2)==0}})
+    .forEach((obj) => console.log(obj.x + " é par? "+ obj.par));
