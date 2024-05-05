@@ -1,0 +1,18 @@
+Boas prática
+Twelve Factor Apps - HEROKU
+    01-Base de Código (Codebase) - Git, svn
+    02-Dependência (Dependencies) - npm, mavne, nuget, pip
+    03-Configurações (Config)
+    04-Serviços de Apoio (Backing Service)
+    05-Construa, lance, execute (build, release, run)
+    06-Processos (Processes)
+    07-Vínculo de Portas (Port Binding) - Redirecionamento
+    08-Concorrência (Concurrency)
+    09-Descaratabilidade (Disposability)
+    10-Paridade entre desenvolvimento e produção (Dev/Prod parity)
+    11-Logs (Logs)
+    12-Processos Administrativos (Admin process) -Migration (ferramentas de ORM), Intity framework, Hibernate, SQLAlchemy
+
+Versionamento de código
+    - Repositório remoto de código
+    
